@@ -5,7 +5,7 @@ This is a dashboard created to track invoicing incidents and their resolution ti
 
 ![Imagen del proyecto2](https://github.com/martinjp5/My-Portfolio/blob/main/Incidentmanagementdashboard2.jpg)
 
-(https://github.com/martinjp5/My-Portfolio/blob/27d92fbbed5f1397e2b395654f2be6e3e2354cc0/Incident%20management%20dashboard.jpg)
+![Imagen del proyecto](https://github.com/martinjp5/My-Portfolio/blob/27d92fbbed5f1397e2b395654f2be6e3e2354cc0/Incident%20management%20dashboard.jpg)
 
 <img src="/Incident management dashboard.jpg" />
 

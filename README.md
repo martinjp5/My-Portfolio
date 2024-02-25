@@ -6,6 +6,7 @@ This is a dashboard created to track invoicing incidents and follow-up resolutio
 ## 💻 Tools
 Excel, SQL y Power BI 
 
-## 📥 Author
+## 📄 Author
 Martin Pineiro
+---
 http://www.linkedin.com/in/martinjp5

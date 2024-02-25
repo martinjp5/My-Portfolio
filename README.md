@@ -1,15 +1,15 @@
 # 📊 Incident Management Dashboard
 This is a dashboard created to track invoicing incidents and their resolution time.
 
-![Imagen del proyecto](https://github.com/martinjp5/My-Portfolio/blob/main/Incident%20management%20dashboard.jpg)
+![Imagen del proyecto](https://github.com/martinjp5/My-Portfolio/blob/main/Incidentmanagementdashboard.jpg)
 
-![Imagen del proyecto2](https://github.com/martinjp5/My-Portfolio/blob/main/Incident%20management%20dashboard2.jpg)
+![Imagen del proyecto2](https://github.com/martinjp5/My-Portfolio/blob/main/Incidentmanagementdashboard2.jpg)
 
 <img src="/Incident management dashboard.jpg" />
 
 <img src="/Incident management dashboard2.jpg" />
 
-import logo from '/src/assets/img/Incident management dashboard.jpg';
+import logo from '/main/Incident management dashboard.jpg';
 
 ## 💻 Tools
 Excel, SQL y Power BI 

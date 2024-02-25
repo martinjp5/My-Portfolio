@@ -9,6 +9,8 @@ This is a dashboard created to track invoicing incidents and their resolution ti
 
 <img src="/Incident management dashboard2.jpg" />
 
+import logo from '/src/assets/img/Incident management dashboard.jpg';
+
 ## 💻 Tools
 Excel, SQL y Power BI 
 
